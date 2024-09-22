@@ -9,11 +9,11 @@
     <meta name="viewport" content="whidth=decive-width,initial-scale-1.0">
 
 
-</head>
+
 <body bgcolor="bbdefb"> 
 <body>
 
-</head>
+
 <body>
     <P> <h3 class="centrado"> <a href= "datospersonales.html.HTML">  ✦ DATOS ✦  </a>
     <p><h3 class="centrado"><a href="escolaridad.html.HTML">    ✦ ESCOLARIDAD ✦</a>
